@@ -4,4 +4,4 @@ FIT Buddy app. Inspiration from Edward Yeboah
 
 ## Getting Started
 
-<img src="https://repository-images.githubusercontent.com/307455323/340fcb80-17b2-11eb-8f4c-fa3fa48a29d8"></a>
+<img src="https://repository-images.githubusercontent.com/307546976/a7d1c880-17f2-11eb-9744-57c5033d2c34"></a>
